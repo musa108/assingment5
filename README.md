@@ -8,5 +8,5 @@ CSS
 githublink:https://github.com/musa108/assingment5
 live url:https://musa108.github.io/assingment5/
 # acknowledgement
-thanks to our miss adetutu for impacting me with the knowledge to build this project
+thanks to our tutor miss adetutu for impacting me with the knowledge to build this project
 
