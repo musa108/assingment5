@@ -6,4 +6,7 @@ HTML
 CSS
 #link
 githublink:https://github.com/musa108/assingment5
-live url:
+live url:https://musa108.github.io/assingment5/
+# acknowledgement
+thanks to our miss adetutu for impacting me with the knowledge to build this project
+
